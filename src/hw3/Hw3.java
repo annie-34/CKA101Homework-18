@@ -22,5 +22,6 @@ public static void main(String[] args) {
 		}
 	}
 	System.out.println("總共有 " + count + " 個數字可以選");
+	sc.close();
 }
 }

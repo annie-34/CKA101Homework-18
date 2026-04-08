@@ -16,7 +16,7 @@ public static void main(String[] args) {
 			System.out.print("猜錯囉!再猜一次:");
 		}
 		
-	}
+	}sc.close();
 }
 }
 

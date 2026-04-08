@@ -31,6 +31,7 @@ public class H1Version1 {
 	
 
 	}
+		sc.close();
 	}
 }
 

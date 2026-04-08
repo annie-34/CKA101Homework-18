@@ -26,7 +26,7 @@ public class H2Plus {
 				max=guess;
 				System.out.print("正確答案介於"+min+"~"+guess+"之間"+"\n"+"請再猜一個數字");
 			}
-			}
+			}sc.close();
 		}
 	}
 

@@ -38,6 +38,6 @@ public static void main(String[] args) {
 	if(isRight(num1,num2,num3)) {
 		System.out.println("也是直角三角形");
 	}
-}
+}sc.close();
 }
 }
