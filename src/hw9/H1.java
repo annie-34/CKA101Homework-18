@@ -3,7 +3,6 @@ package hw9;
 public class H1 implements Runnable {
 	int sr=1;
 	String name;
-//	static boolean gameOver=false;
 	public H1() {	
 	}
 	public H1(String name) {
